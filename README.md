@@ -1,6 +1,8 @@
 ## Hi there! 🙋🏽‍♂️
 
-I'm Keevaan, a high school student
+I'm Keevaan, I'm currently 16 years old.
+
+I'm a high school student, currently taking IGCSE Computer Science
 
 I'm currently learning Python, Java and React JS
 
