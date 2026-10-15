@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 🙋🏽‍♂️
+
+I'm Keevaan, a high school student
+
+I'm currently learning Python, Java and React JS
+
+Feel free to send me a message if you have any questions! 😊
 
 <!--
 **kmarcos1/kmarcos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
