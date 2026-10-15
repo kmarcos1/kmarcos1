@@ -6,6 +6,11 @@ I'm a high school student, currently taking IGCSE Computer Science
 
 I'm currently learning Python, Java and React JS
 
+Fun facts about me:
+- I enjoy watching movies
+- I'm a passionate cook and baker
+- I relax by playing Valorant with my friends 
+
 Feel free to send me a message if you have any questions! 😊
 
 <!--
